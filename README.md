@@ -32,7 +32,7 @@ The Student Registration System is a Java Swing application designed to help adm
 
 ## Installation
 1. Clone or download the project repository from [GitHub link].
-2. Set up MySQL database with the provided schema (resources/DBInit.txt).
+2. Set up MySQL database with the provided schema (resources/initDB).
 3. Update the database connection details (URL, username, password) in the Java code where necessary.
 4. Compile the Java files using a Java compiler.
 5. Run the application by executing the main class.
