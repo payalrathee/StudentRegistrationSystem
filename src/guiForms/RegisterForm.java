@@ -12,7 +12,7 @@ public class RegisterForm {
 
     public RegisterForm()
     {
-        JFrame frame=new JFrame("Login Form");
+        JFrame frame=new JFrame("Register Form");
         frame.setResizable(false);
         frame.getContentPane().setBackground(new Color(2,2,20));
         frame.setLocation(150,150);
